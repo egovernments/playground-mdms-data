@@ -1,0 +1,30 @@
+{
+  "tenantId": "pb.amritsar",
+  "moduleName": "BillingService",
+  "BusinessService": [
+    {
+      "businessService": "PropertyTax",
+      "code":"PT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": true
+    },
+    {
+      "businessService": "WaterCharges",
+      "code":"WC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false
+    },
+    {
+      "businessService": "TradeLicense",
+      "code":"TL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false
+    }
+  ]
+}
