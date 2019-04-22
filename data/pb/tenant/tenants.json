@@ -63,21 +63,21 @@
     },
     {
       "code": "pb.amritsar",
-      "name": "Amritsar",
+      "name": "Sonpur",
       "description": null,
       "logoId": null,
       "imageId": "/pb-egov-assets/pb.amritsar/logo.png",
       "domainUrl": "www.amritsarcorp.com",
       "type": "CITY",
-      "twitterUrl": "https://twitter.com/search?q=%23AMRITSAR",
-      "facebookUrl": "https://www.facebook.com/city/Amritsar-Punjab",
+      "twitterUrl": null,
+      "facebookUrl": null,
       "emailId": "cmcasr@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Amritsar",
+        "name": "Sonpur",
         "localName": null,
         "districtCode": null,
         "districtName": null,
