@@ -5,8 +5,8 @@
     {
       "name": "Panjab",
       "code":"pb",
-      "bannerUrl": "https://raw.githubusercontent.com/egovernments/egov-web-app/rainmaker-v1-dynamic-state/web/rainmaker/packages/assets/images/pb/Banner_image.jpg",
-      "logoUrl":"https://raw.githubusercontent.com/egovernments/egov-web-app/rainmaker-v1-dynamic-state/web/rainmaker/packages/assets/images/pb/mseva-punjab.png",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.abohar/Buddha.jpg",
+      "logoUrl":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.abohar/mSeva_Bihar.png",
       "hasLocalisation" : false,
       "defaultUrl" : {
           "citizen" : "/user/register",
