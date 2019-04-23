@@ -3,8 +3,8 @@
   "moduleName": "tenant",
   "tenants": [{
       "code": "pb.jalandhar",
-      "name": "Patna",
-      "description": "Patna",
+      "name": "Jalandhar",
+      "description": "Jalandhar",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/patnalogo.jpg",
       "imageId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/patnalogo.jpg",
       "domainUrl": "www.mcjalandhar.in",
@@ -16,7 +16,7 @@
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Patna",
+        "name": "Jalandhar",
         "localName": null,
         "districtCode": null,
         "districtName": null,
@@ -62,6 +62,36 @@
       "address": "Municipal Corporation Amritsar, Town Hall, Amritsar,Punjab",
       "contactNumber": "0183-2545155",
       "helpLineNumber": "0183-2210300"
+    },
+    {
+      "code": "pb.Patna",
+      "name": "Patna",
+      "description": "Patna",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/patnalogo.jpg",
+      "imageId": null,
+      "domainUrl": "https://patnamunicipal.net/pmc/public",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Patna",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.5761829,
+        "latitude": 31.3260152,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "1014"
+      },
+      "address": "Sachivalay Ghat, Harding Rd, Rajbansi Nagar, Patna, Bihar 800001",
+      "contactNumber": "06122223791"
     }
   ]
 }
