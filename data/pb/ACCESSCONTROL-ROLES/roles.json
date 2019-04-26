@@ -228,9 +228,9 @@
       "description": "Admin role that has super access over the system"
     },
     {
-      "code": "CEMP",
-      "name": "Counter Employee",
-      "description": "Employee at the counter who performs assessment on behalf of citizen"
+      "code": "PTCEMP",
+      "name": "PT Counter Employee",
+      "description": "PT Counter Employee"
     },
     {
       "code": "FEMP",
