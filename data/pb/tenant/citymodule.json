@@ -10,9 +10,6 @@
           "code": "pb.jalandhar"
         },
         {
-          "code": "pb.phagwara"
-        },
-        {
           "code": "pb.amritsar"
         }
         
@@ -24,9 +21,6 @@
       "tenants": [
         {
           "code": "pb.jalandhar"
-        },
-        {
-          "code": "pb.nawanshahr"
         },
         {
           "code": "pb.amritsar"
@@ -41,16 +35,7 @@
           "code": "pb.jalandhar"
         },
         {
-          "code": "pb.nawanshahr"
-        },
-        {
           "code": "pb.amritsar"
-        },
-	{
-          "code": "pb.mohali"
-        },
-        {
-          "code": "pb.nayagaon"
         }
       ]
     },
@@ -62,13 +47,7 @@
           "code": "pb.jalandhar"
         },
         {
-          "code": "pb.nawanshahr"
-        },
-        {
           "code": "pb.amritsar"
-        }, 
-        {
-          "code": "pb.derabassi"
         }
       ]
     }
