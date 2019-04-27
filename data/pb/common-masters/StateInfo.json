@@ -5,8 +5,8 @@
     {
       "name": "Panjab",
       "code":"pb",
-      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/Mussoorie-shutterstock.jpg",
-      "logoUrl":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/mSeva_Bihar.png",
+      "bannerUrl": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/uk-app-bg.jpg",
+      "logoUrl":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/uk-logo.png",
       "hasLocalisation" : false,
       "defaultUrl" : {
           "citizen" : "/user/register",
