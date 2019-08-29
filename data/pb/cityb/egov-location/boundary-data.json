@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb.amritsar",
+  "tenantId": "pb.cityb",
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
@@ -10,12 +10,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Amritsar",
-        "localname": "Amritsar",
+        "name": "City B",
+        "localname": "City B",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.amritsar",
+        "code": "pb.cityb",
         "children":[
           {
             "id": 2,
@@ -611,12 +611,12 @@
       "boundary": {
         "id": 1,
         "boundaryNum": 1,
-        "name": "Amritsar",
-        "localname": "Amritsar",
+        "name": "City B",
+        "localname": "City B",
         "longitude": null,
         "latitude": null,
         "label": "City",
-        "code": "pb.amritsar",
+        "code": "pb.cityb",
         "children":[
           {
             "id": 2,
