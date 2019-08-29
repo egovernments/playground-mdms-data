@@ -7,10 +7,10 @@
       "code": "PGR",
       "tenants": [
         {
-          "code": "pb.jalandhar"
+          "code": "pb.citya"
         },
         {
-          "code": "pb.amritsar"
+          "code": "pb.cityb"
         }
         
       ]
@@ -20,10 +20,10 @@
       "code": "PT",
       "tenants": [
         {
-          "code": "pb.jalandhar"
+          "code": "pb.citya"
         },
         {
-          "code": "pb.amritsar"
+          "code": "pb.cityb"
         }
       ]
     },
@@ -32,10 +32,10 @@
       "code": "Finance",
       "tenants": [
         {
-          "code": "pb.jalandhar"
+          "code": "pb.citya"
         },
         {
-          "code": "pb.amritsar"
+          "code": "pb.cityb"
         }
       ]
     },
@@ -44,10 +44,10 @@
       "code": "TL",
       "tenants": [
         {
-          "code": "pb.jalandhar"
+          "code": "pb.citya"
         },
         {
-          "code": "pb.amritsar"
+          "code": "pb.cityb"
         }
       ]
     }

@@ -2,21 +2,21 @@
   "tenantId": "pb",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "pb.jalandhar",
-      "name": "Dehradun",
-      "description": "Dehradun",
+      "code": "pb.citya",
+      "name": "City A",
+      "description": "City A",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/patnalogo.jpg",
       "imageId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/patnalogo.jpg",
-      "domainUrl": "www.mcjalandhar.in",
+      "domainUrl": null,
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "complaints.mcj@gmail.com",
+      "emailId": "complaints.citya@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Dehradun",
+        "name": "City A",
         "localName": null,
         "districtCode": null,
         "districtName": null,
@@ -28,26 +28,26 @@
         "captcha": null,
         "code": "1013"
       },
-      "address": "Municipal Corporation Office, Dr. B.R.Ambedkar Admin Complex, Nehru Garden, Jalandhar City-144001",
-      "contactNumber": "0181-2227015"
+      "address": "City A Municipal Cornoration Address",
+      "contactNumber": "001-2345876"
     },
     {
-      "code": "pb.amritsar",
-      "name": "Rishikesh",
+      "code": "pb.cityb",
+      "name": "City B",
       "description": null,
       "logoId": null,
       "imageId": "/pb-egov-assets/pb.amritsar/logo.png",
-      "domainUrl": "www.amritsarcorp.com",
+      "domainUrl": null,
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "cmcasr@gmail.com",
+      "emailId": "cityb@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
       },
       "city": {
-        "name": "Rishikesh",
+        "name": "City B",
         "localName": null,
         "districtCode": null,
         "districtName": null,
@@ -59,9 +59,9 @@
         "captcha": null,
         "code": "107"
       },
-      "address": "Municipal Corporation Amritsar, Town Hall, Amritsar,Punjab",
-      "contactNumber": "0183-2545155",
-      "helpLineNumber": "0183-2210300"
+      "address": "City B Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
     }
   ]
 }
