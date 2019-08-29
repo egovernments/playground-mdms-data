@@ -5,7 +5,7 @@
       "code": "pb.citya",
       "name": "City A",
       "description": "City A",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/patnalogo.jpg",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.citya/logo.png",
       "imageId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/patnalogo.jpg",
       "domainUrl": null,
       "type": "CITY",
