@@ -94,6 +94,70 @@
       "address": "City C Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "pb.cityd",
+      "name": "City D",
+      "description": null,
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.cityd/logo.png",
+      "imageId": null,
+      "domainUrl": null,
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "cityd@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "City D",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.8722642,
+        "latitude": 35.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "109"
+      },
+      "address": "City D Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "pb.citye",
+      "name": "City E",
+      "description": null,
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.citye/logo.png",
+      "imageId": null,
+      "domainUrl": null,
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "citye@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "City E",
+        "localName": null,
+        "districtCode": null,
+        "districtName": null,
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 76.8722642,
+        "latitude": 36.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "110"
+      },
+      "address": "City E Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
     }
   ]
 }
