@@ -86,6 +86,27 @@
           "code": "pb.citye"
         }
       ]
+    },
+    {
+      "module": "FIRENOC",
+      "code": "FIRENOC",
+      "tenants": [
+        {
+          "code": "pb.citya"
+        },
+        {
+          "code": "pb.cityb"
+        },
+        {
+          "code": "pb.cityc"
+        },
+        {
+          "code": "pb.cityd"
+        },
+        {
+          "code": "pb.citye"
+        }
+      ]
     }
   ]
 }
