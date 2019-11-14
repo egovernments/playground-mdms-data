@@ -18,7 +18,7 @@
       "city": {
         "name": "City A",
         "localName": null,
-        "districtCode": null,
+        "districtCode": "CITYA",
         "districtName": null,
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
@@ -49,7 +49,7 @@
       "city": {
         "name": "City B",
         "localName": null,
-        "districtCode": null,
+        "districtCode": "CITYB",
         "districtName": null,
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
@@ -81,7 +81,7 @@
       "city": {
         "name": "City C",
         "localName": null,
-        "districtCode": null,
+        "districtCode": "CITYC",
         "districtName": null,
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
@@ -113,7 +113,7 @@
       "city": {
         "name": "City D",
         "localName": null,
-        "districtCode": null,
+        "districtCode": "CITYD",
         "districtName": null,
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
@@ -145,7 +145,7 @@
       "city": {
         "name": "City E",
         "localName": null,
-        "districtCode": null,
+        "districtCode": "CITYE",
         "districtName": null,
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
