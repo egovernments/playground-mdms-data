@@ -3,18 +3,28 @@
   "moduleName": "firenoc",
   "FireStations": [
     {
-      "code": "FS_AMRITSAR_01",
-      "baseTenantId": "pb.amritsar",
+      "code": "FS_CITYA_01",
+      "baseTenantId": "pb.citya",
       "active": true
     },
     {
-      "code": "FS_JALANDHAR_01",
-      "baseTenantId": "pb.jalandhar",
+      "code": "FS_CITYB_01",
+      "baseTenantId": "pb.cityb",
       "active": true
     },
     {
-      "code": "FS_MOHALI_01",
-      "baseTenantId": "pb.mohali",
+      "code": "FS_CITYC_01",
+      "baseTenantId": "pb.cityc",
+      "active": true
+    },
+    {
+      "code": "FS_CITYD_01",
+      "baseTenantId": "pb.cityd",
+      "active": true
+    },
+    {
+      "code": "FS_CITYE_01",
+      "baseTenantId": "pb.citye",
       "active": true
     }
   ]
