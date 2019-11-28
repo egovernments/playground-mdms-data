@@ -7,21 +7,24 @@
       "uom": null,
       "applicationDocument":["OWNERIDPROOF", "OWNERSHIPPROOF"],
       "verificationDocument":[],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "GOODS.RETAIL.TR2",
       "uom": null,
       "applicationDocument":["OWNERIDPROOF", "OWNERSHIPPROOF"],
       "verificationDocument":[],
-      "active": true
+      "active": true,
+      "type": "TL"
     },
     {
       "code": "GOODS.RETAIL.TR3",
       "uom": null,
       "applicationDocument":["OWNERIDPROOF", "OWNERSHIPPROOF"],
       "verificationDocument":[],
-      "active": true
+      "active": true,
+      "type": "TL"
     }
   ]
 }
