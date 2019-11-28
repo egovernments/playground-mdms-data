@@ -442,6 +442,18 @@
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "nks.rain_harvesting_charges.receipt.id"
+        },
+        {
+            "format": "PB/AC/[cy:yyyy-MM-dd]/[SEQ_EG_PT_ACK]",
+            "idname": "pt.acknowledgementnumber"
+        },
+        {
+            "format": "PB/AS/[cy:yyyy-MM-dd]/[SEQ_EG_PT_ASSM]",
+            "idname": "pt.assessmentnumber"
+        },
+        {
+            "format": "PB/PT/[cy:yyyy-MM-dd]/[SEQ_EG_PT_PTID]",
+            "idname": "pt.propertyid"
         }
 
     ]
