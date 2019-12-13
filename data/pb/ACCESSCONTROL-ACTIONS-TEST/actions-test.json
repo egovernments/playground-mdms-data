@@ -15229,8 +15229,23 @@
       "enabled": true,
       "serviceCode": "BPAREG",
       "code": "null",
-      "path": "BPAStakeHolder.Home",
+      "path": "BPAStakeHolder",
       "navigationURL": "bpastakeholder-citizen/home",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+      "id": 1922,
+      "name": "eDCRScrutinyHome",
+      "url": "url",
+      "displayName": "eDCR Scrutiny Home",
+      "orderNumber": 1,
+      "parentModule": "rainmaker-edcr",
+      "enabled": true,
+      "serviceCode": "EDCR",
+      "code": "null",
+      "path": "eDCRScrutiny",
+      "navigationURL": "edcrscrutiny/home",
       "leftIcon": "places:business-center",
       "rightIcon": ""
     },
@@ -15652,6 +15667,50 @@
       "parentModule": "",
       "enabled": true,
       "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1895,
+      "name": "Create Property registry",
+      "url": "/property-services/property/_create",
+      "displayName": "Create Property Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1896,
+      "name": "UpdateCreate Property registry",
+      "url": "/property-services/property/_update",
+      "displayName": "Update Property Registry",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1897,
+      "name": "Search Property registry",
+      "url": "/property-services/property/_search",
+      "displayName": "Search Property Registry",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1898,
+      "name": "Cancel Property registry",
+      "url": "/property-services/property/_cancel",
+      "displayName": "Cancel Property Registry",
+      "orderNumber": 4,
+      "enabled": false,
+      "serviceCode": "property-services",
       "code": "null",
       "path": ""
     }
