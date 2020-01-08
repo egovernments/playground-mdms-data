@@ -7,7 +7,7 @@
       "code":"pb",
       "bannerUrl": null,
       "logoUrl":"https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.testing/mSeva.png",
-      "hasLocalisation" : true,
+      "hasLocalisation" : false,
       "defaultUrl" : {
           "citizen" : "/user/register",
           "employee" : "/user/login"
