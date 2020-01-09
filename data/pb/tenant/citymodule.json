@@ -107,6 +107,27 @@
           "code": "pb.citye"
         }
       ]
+    },
+    {
+      "module": "UC",
+      "code": "UC",
+      "tenants": [
+        {
+          "code": "pb.citya"
+        },
+        {
+          "code": "pb.cityb"
+        },
+        {
+          "code": "pb.cityc"
+        },
+        {
+          "code": "pb.cityd"
+        },
+        {
+          "code": "pb.citye"
+        }
+      ]
     }
   ]
 }
