@@ -70,6 +70,53 @@
       "isVoucherCreationEnabled": true,
       "isActive": true,
       "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.Electricity Chungi",
+      "code": "TX.Electricity_Chungi",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.No Dues Certificate",
+      "code": "TX.No_Dues_Certificate",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rents.Municipal Shops Rent",
+      "code": "RT.Municipal_Shops_Rent",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rents.Land Rent",
+      "code": "RT.Land_Rent",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
     }
   ]
 }
