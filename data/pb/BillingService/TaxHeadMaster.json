@@ -213,6 +213,86 @@
       "isActualDemand": true,
       "order": "1",
       "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.No_Dues_Certificate",
+      "name": "TX.NO_DUES_CERTIFICATE_TAX",
+      "code": "TX.NO_DUES_CERTIFICATE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.No_Dues_Certificate",
+      "name": "TX.NO_DUES_CERTIFICATE_FIELD_FEE",
+      "code": "TX.NO_DUES_CERTIFICATE_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.Electricity_Chungi",
+      "name": "TX.ELECTRICITY_CHUNGI_TAX",
+      "code": "TX.ELECTRICITY_CHUNGI_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.Electricity_Chungi",
+      "name": "TX.ELECTRICITY_CHUNGI_FIELD_FEE",
+      "code": "TX.ELECTRICITY_CHUNGI_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RT.Municipal_Shops_Rent",
+      "name": "RT.MUNICIPAL_SHOPS_RENT_TAX",
+      "code": "RT.MUNICIPAL_SHOPS_RENT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "RT.Municipal_Shops_Rent",
+      "name": "RT.MUNICIPAL_SHOPS_RENT_FIELD_FEE",
+      "code": "RT.MUNICIPAL_SHOPS_RENT_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RT.Land_Rent",
+      "name": "RT.LAND_RENT_TAX",
+      "code": "RT.LAND_RENT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "RT.Land_Rent",
+      "name": "RT.LAND_RENT_FIELD_FEE",
+      "code": "RT.LAND_RENT_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
     }
   ]
 }
