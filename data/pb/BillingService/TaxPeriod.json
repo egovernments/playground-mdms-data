@@ -145,6 +145,54 @@
       "service": "RT.Municipal_Shops_Rent",
       "code": "RTMSRAN2017",
       "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Electricity_Chungi",
+      "code": "TXECAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1554076800000,
+      "toDate": 1585699199000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Electricity_Chungi",
+      "code": "TXECAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.Electricity_Chungi",
+      "code": "TXECAN2018",
+      "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1491004800000,
+      "toDate": 1522540798000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Land_Rent",
+      "code": "RTLRAN2017",
+      "financialYear": "2017-18"
+    },
+    {
+      "fromDate": 1554076800000,
+      "toDate": 1585699199000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Land_Rent",
+      "code": "RTLRAN2019",
+      "financialYear": "2019-20"
+    },
+    {
+      "fromDate": 1522540800000,
+      "toDate": 1554076799000,
+      "periodCycle": "ANNUAL",
+      "service": "RT.Land_Rent",
+      "code": "RTLRAN2018",
+      "financialYear": "2018-19"
     }
   ]
 }
