@@ -25,6 +25,10 @@
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "tx.no_dues_certificate.receipt.id"
         },
+                 {
+            "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "tx.electricity_chungi.receipt.id"
+        },
         {
             "format": "MP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "advt.hoardings.receipt.id"
