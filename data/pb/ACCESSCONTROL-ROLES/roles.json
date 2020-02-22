@@ -407,7 +407,41 @@
       "code": "BPAREG_EMPLOYEE",
       "name": "BPAREG Employee",
       "description": "BPA Stakeholder Employee"
+    },
+    {
+      "code": "BPA_ARCHITECT",
+      "name": "BPA Architect",
+      "description": "BPA Architect"
+    },
+    {
+      "code": "BPA_ENGINEER",
+      "name": "BPA Engineer",
+      "description": "BPA Engineer"
+    },
+    {
+      "code": "BPA_BUILDER",
+      "name": "BPA Builder",
+      "description": "BPA Builder"
+    },
+    {
+      "code": "BPA_STRUCTURALENGINEER",
+      "name": "BPA Structural Engineer",
+      "description": "BPA Structural Engineer"
+    },
+    {
+      "code": "BPA_TOWNPLANNER",
+      "name": "BPA Town Planner",
+      "description": "BPA Town Planner"
+    },
+    {
+      "code": "BPA_APPROVER",
+      "name": "BPA Services Approver",
+      "description": "BPA Services workflow Approver"
+    },
+    {
+      "code": "BPA_VERIFIER",
+      "name": "BPA Services verifier",
+      "description": "BPA Services workflow document & field inspection verifier"
     }
   ]
 }
-
