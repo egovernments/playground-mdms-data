@@ -9,6 +9,10 @@
     {
       "code": "OWNERSHIPPROOF",
       "active": true
+    },
+    {
+      "code": "EXPERIENCEPROOF",
+      "active": true
     }
   ]
 }
