@@ -193,6 +193,30 @@
       "service": "RT.Land_Rent",
       "code": "RTLRAN2018",
       "financialYear": "2018-19"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPAREG",
+      "code": "BPAREG10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.NC_APP_FEE",
+      "code": "BPA10YRS2018",
+      "financialYear": "2018-28"
+    },
+    {
+      "fromDate": 1522540801000,
+      "toDate": 1838159999000,
+      "periodCycle": "FORTENYEARS",
+      "service": "BPA.NC_SAN_FEE",
+      "code": "BPA10YRS2018",
+      "financialYear": "2018-28"
     }
   ]
 }
