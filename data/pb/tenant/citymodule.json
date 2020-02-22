@@ -128,6 +128,48 @@
           "code": "pb.citye"
         }
       ]
+    },
+    {
+      "module": "BPAREG",
+      "code": "BPAREG",
+      "tenants": [
+        {
+          "code": "pb.citya"
+        },
+        {
+          "code": "pb.cityb"
+        },
+        {
+          "code": "pb.cityc"
+        },
+        {
+          "code": "pb.cityd"
+        },
+        {
+          "code": "pb.citye"
+        }
+      ]
+    },
+    {
+      "module": "BPAAPPLY",
+      "code": "BPAAPPLY",
+      "tenants": [
+        {
+          "code": "pb.citya"
+        },
+        {
+          "code": "pb.cityb"
+        },
+        {
+          "code": "pb.cityc"
+        },
+        {
+          "code": "pb.cityd"
+        },
+        {
+          "code": "pb.citye"
+        }
+      ]
     }
   ]
 }
