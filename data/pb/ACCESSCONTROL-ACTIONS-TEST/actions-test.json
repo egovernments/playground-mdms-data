@@ -28,6 +28,17 @@
       "path": "Asset Management.Asset Masters.Immovable Asset.ViewImmovableAsset"
     },
     {
+      "id": 1942,
+      "name": "Locality searcher endpoint for BPA Reg",
+      "url": "/egov-searcher/locality/BPAREG/_get",
+      "displayName": "BPA locality searcher",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "egov-searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 240,
       "name": "ModifyImmovableAsset",
       "url": "/app/asset/search-asset.html",
