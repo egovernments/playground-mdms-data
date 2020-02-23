@@ -36,7 +36,7 @@
       "enabled": false,
       "serviceCode": "egov-searcher",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 240,
@@ -2890,7 +2890,7 @@
       "enabled": false,
       "serviceCode": "uploadfiles",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 277,
@@ -2902,7 +2902,7 @@
       "enabled": false,
       "serviceCode": "filesearch",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 278,
@@ -2914,7 +2914,7 @@
       "enabled": false,
       "serviceCode": "filesearchbytag",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 279,
@@ -3096,7 +3096,7 @@
       "enabled": false,
       "serviceCode": "EGOV Common Masters",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 297,
@@ -3108,7 +3108,7 @@
       "enabled": false,
       "serviceCode": "EGOV Common Masters",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 298,
@@ -3248,7 +3248,7 @@
       "enabled": false,
       "serviceCode": "pgr",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 344,
@@ -3558,7 +3558,7 @@
       "enabled": false,
       "serviceCode": "AssetSaleAndDisposalCreate",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 383,
@@ -7016,7 +7016,7 @@
       "enabled": false,
       "serviceCode": "financialstatuses",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 927,
@@ -7028,7 +7028,7 @@
       "enabled": false,
       "serviceCode": "ChartofaccountsSearch",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 931,
@@ -7239,7 +7239,7 @@
       "enabled": false,
       "serviceCode": "MDMS Search",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 955,
@@ -7299,7 +7299,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 964,
@@ -7311,7 +7311,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 965,
@@ -7358,7 +7358,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 969,
@@ -7370,7 +7370,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 976,
@@ -7430,7 +7430,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 985,
@@ -7453,7 +7453,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 996,
@@ -7786,7 +7786,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1042,
@@ -7971,7 +7971,7 @@
       "enabled": false,
       "serviceCode": "Leave Report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1116,
@@ -8313,7 +8313,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1150,
@@ -8325,7 +8325,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1151,
@@ -8337,7 +8337,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1152,
@@ -8349,7 +8349,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1153,
@@ -8361,7 +8361,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1154,
@@ -8373,7 +8373,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1156,
@@ -8397,7 +8397,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1165,
@@ -8409,7 +8409,7 @@
       "enabled": false,
       "serviceCode": "Asset Service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1174,
@@ -9353,7 +9353,7 @@
       "enabled": false,
       "serviceCode": "CASE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1409,
@@ -9365,7 +9365,7 @@
       "enabled": false,
       "serviceCode": "SWMRPT",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1410,
@@ -9376,7 +9376,7 @@
       "parentModule": "308",
       "enabled": false,
       "serviceCode": "SWMRPT",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1160,
@@ -9387,7 +9387,7 @@
       "parentModule": "622",
       "enabled": false,
       "serviceCode": "Get Next Scheduled Maintenance Date",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1221,
@@ -9658,7 +9658,7 @@
       "orderNumber": 1,
       "enabled": false,
       "serviceCode": "MISCELLANEOUS RECEIPT NOTE",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1431,
@@ -9668,7 +9668,7 @@
       "orderNumber": 2,
       "enabled": false,
       "serviceCode": "MISCELLANEOUS RECEIPT NOTE",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1432,
@@ -9678,7 +9678,7 @@
       "orderNumber": 3,
       "enabled": false,
       "serviceCode": "MISCELLANEOUS RECEIPT NOTE",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1433,
@@ -9688,7 +9688,7 @@
       "orderNumber": 1,
       "enabled": false,
       "serviceCode": "Material Type Store Mapping",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1434,
@@ -9698,7 +9698,7 @@
       "orderNumber": 2,
       "enabled": false,
       "serviceCode": "Material Type Store Mapping",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1435,
@@ -10350,7 +10350,7 @@
       "enabled": false,
       "serviceCode": "WORKS_REPORTS",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1499,
@@ -10361,7 +10361,7 @@
       "enabled": false,
       "serviceCode": "MATERIAL TYPE MASTER",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1500,
@@ -10372,7 +10372,7 @@
       "enabled": false,
       "serviceCode": "MATERIAL TYPE MASTER",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1501,
@@ -10383,7 +10383,7 @@
       "enabled": false,
       "serviceCode": "MATERIAL TYPE MASTER",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1502,
@@ -10394,7 +10394,7 @@
       "enabled": false,
       "serviceCode": "TRANSFER OUTWARD ISSUE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1503,
@@ -10405,7 +10405,7 @@
       "enabled": false,
       "serviceCode": "TRANSFER OUTWARD ISSUE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1504,
@@ -10416,7 +10416,7 @@
       "enabled": false,
       "serviceCode": "TRANSFER OUTWARD ISSUE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1505,
@@ -10427,7 +10427,7 @@
       "enabled": false,
       "serviceCode": "",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1506,
@@ -10438,7 +10438,7 @@
       "enabled": false,
       "serviceCode": "",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1507,
@@ -10449,7 +10449,7 @@
       "enabled": false,
       "serviceCode": "",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1508,
@@ -10460,7 +10460,7 @@
       "enabled": false,
       "serviceCode": "",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1509,
@@ -10471,7 +10471,7 @@
       "enabled": false,
       "serviceCode": "",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1510,
@@ -10482,7 +10482,7 @@
       "enabled": false,
       "serviceCode": "",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1511,
@@ -10493,7 +10493,7 @@
       "enabled": false,
       "serviceCode": "",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1512,
@@ -10558,7 +10558,7 @@
       "enabled": false,
       "serviceCode": "WORKS_REPORTS",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1517,
@@ -10584,7 +10584,7 @@
       "enabled": false,
       "serviceCode": "WORKS_REPORTS",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1519,
@@ -10597,7 +10597,7 @@
       "enabled": false,
       "serviceCode": "FILE_METADATA",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1520,
@@ -10657,7 +10657,7 @@
       "enabled": false,
       "serviceCode": "rainmaker pgr",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1525,
@@ -10669,7 +10669,7 @@
       "enabled": false,
       "serviceCode": "rainmaker pgr",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1526,
@@ -10681,7 +10681,7 @@
       "enabled": false,
       "serviceCode": "rainmaker pgr",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1527,
@@ -10693,7 +10693,7 @@
       "enabled": false,
       "serviceCode": "rainmaker pgr",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1528,
@@ -10705,7 +10705,7 @@
       "enabled": false,
       "serviceCode": "filestore url",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1529,
@@ -10717,7 +10717,7 @@
       "enabled": false,
       "serviceCode": "filestore url",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1530,
@@ -10729,7 +10729,7 @@
       "enabled": false,
       "serviceCode": "filestore url",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1531,
@@ -10741,7 +10741,7 @@
       "enabled": false,
       "serviceCode": "filestore url",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1532,
@@ -10788,7 +10788,7 @@
       "enabled": false,
       "serviceCode": "pt-services-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1536,
@@ -10799,7 +10799,7 @@
       "enabled": false,
       "serviceCode": "pt-services-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1537,
@@ -10810,7 +10810,7 @@
       "enabled": false,
       "serviceCode": "pt-services-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1538,
@@ -10966,7 +10966,7 @@
       "enabled": false,
       "serviceCode": "pt-services-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1550,
@@ -10978,7 +10978,7 @@
       "enabled": false,
       "serviceCode": "pt-services-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1551,
@@ -10990,7 +10990,7 @@
       "enabled": false,
       "serviceCode": "pt-calculator-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1552,
@@ -11002,7 +11002,7 @@
       "enabled": false,
       "serviceCode": "pt-calculator-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1553,
@@ -11236,7 +11236,7 @@
       "enabled": false,
       "serviceCode": "pt-services-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1570,
@@ -11248,7 +11248,7 @@
       "enabled": false,
       "serviceCode": "pg-service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1571,
@@ -11260,7 +11260,7 @@
       "enabled": false,
       "serviceCode": "pg-service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1572,
@@ -11272,7 +11272,7 @@
       "enabled": false,
       "serviceCode": "pg-service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1573,
@@ -11284,7 +11284,7 @@
       "enabled": false,
       "serviceCode": "proeprtytax",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1574,
@@ -11296,7 +11296,7 @@
       "enabled": false,
       "serviceCode": "pt-calculator-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1575,
@@ -11501,7 +11501,7 @@
       "enabled": false,
       "serviceCode": "collection-masters",
       "code": "collection-masters.bankAccountServiceMapping",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1587,
@@ -11513,7 +11513,7 @@
       "enabled": false,
       "serviceCode": "collection-masters",
       "code": "collection-masters.bankAccountServiceMapping",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1588,
@@ -11535,7 +11535,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1590,
@@ -11546,7 +11546,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1591,
@@ -11602,7 +11602,7 @@
       "enabled": false,
       "serviceCode": "hr-masters",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1602,
@@ -11614,7 +11614,7 @@
       "enabled": false,
       "serviceCode": "hr-masters",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1603,
@@ -11626,7 +11626,7 @@
       "enabled": false,
       "serviceCode": "hr-masters",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1604,
@@ -11638,7 +11638,7 @@
       "enabled": false,
       "serviceCode": "hr-masters",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1605,
@@ -11650,7 +11650,7 @@
       "enabled": false,
       "serviceCode": "hr-masters",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1606,
@@ -11662,7 +11662,7 @@
       "enabled": false,
       "serviceCode": "hr-masters",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1607,
@@ -11674,7 +11674,7 @@
       "enabled": false,
       "serviceCode": "hr-masters",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1608,
@@ -11686,7 +11686,7 @@
       "enabled": false,
       "serviceCode": "hr-masters",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1609,
@@ -12620,7 +12620,7 @@
       "enabled": false,
       "serviceCode": "Collections",
       "code": "null",
-      "path": "",
+      "path": "null",
       "navigationURL": ""
     },
     {
@@ -12633,7 +12633,7 @@
       "enabled": false,
       "serviceCode": "Collections",
       "code": "null",
-      "path": "",
+      "path": "null",
       "navigationURL": ""
     },
     {
@@ -12646,7 +12646,7 @@
       "enabled": false,
       "serviceCode": "Collections",
       "code": "null",
-      "path": "",
+      "path": "null",
       "navigationURL": ""
     },
     {
@@ -12659,7 +12659,7 @@
       "enabled": false,
       "serviceCode": "Collections",
       "code": "null",
-      "path": "",
+      "path": "null",
       "navigationURL": ""
     },
     {
@@ -12714,7 +12714,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "path": "",
+      "path": "null",
       "navigationURL": ""
     },
     {
@@ -12727,7 +12727,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "path": "",
+      "path": "null",
       "navigationURL": ""
     },
     {
@@ -12740,7 +12740,7 @@
       "enabled": false,
       "serviceCode": "TradeLicense",
       "code": "null",
-      "path": "",
+      "path": "null",
       "navigationURL": ""
     },
     {
@@ -12753,7 +12753,7 @@
       "enabled": false,
       "serviceCode": "tl-services",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1686,
@@ -12765,7 +12765,7 @@
       "enabled": false,
       "serviceCode": "tl-services",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1687,
@@ -12777,7 +12777,7 @@
       "enabled": false,
       "serviceCode": "tl-services",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1688,
@@ -12789,7 +12789,7 @@
       "enabled": false,
       "serviceCode": "tl-calculator",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1689,
@@ -12801,7 +12801,7 @@
       "enabled": false,
       "serviceCode": "VOUCHER",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1690,
@@ -12841,7 +12841,7 @@
       "enabled": false,
       "serviceCode": "Billing-service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1693,
@@ -12867,7 +12867,7 @@
       "enabled": false,
       "serviceCode": "VOUCHER",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1695,
@@ -12879,7 +12879,7 @@
       "enabled": false,
       "serviceCode": "VOUCHER",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1696,
@@ -12891,7 +12891,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1697,
@@ -12903,7 +12903,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1698,
@@ -12929,7 +12929,7 @@
       "enabled": false,
       "serviceCode": "Property Tax",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1700,
@@ -12940,7 +12940,7 @@
       "enabled": false,
       "serviceCode": "ADMIN",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1701,
@@ -12952,7 +12952,7 @@
       "enabled": false,
       "serviceCode": "hr-masters",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1702,
@@ -12964,7 +12964,7 @@
       "enabled": false,
       "serviceCode": "hr-masters",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1703,
@@ -13052,7 +13052,7 @@
       "enabled": true,
       "serviceCode": "COLLECTIONS",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1710,
@@ -13063,7 +13063,7 @@
       "enabled": true,
       "serviceCode": "COLLECTIONS",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1711,
@@ -13319,7 +13319,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "",
       "leftIcon": "",
       "rightIcon": "",
@@ -13335,7 +13335,7 @@
       "enabled": false,
       "serviceCode": "egov-workflow-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1730,
@@ -13347,7 +13347,7 @@
       "enabled": false,
       "serviceCode": "egov-workflow-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1731,
@@ -13401,7 +13401,7 @@
       "enabled": false,
       "serviceCode": "filestore url",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1735,
@@ -13453,7 +13453,7 @@
       "enabled": false,
       "serviceCode": "Uploader",
       "code": "null",
-      "path": "",
+      "path": "null",
       "navigationURL": ""
     },
     {
@@ -13466,7 +13466,7 @@
       "enabled": false,
       "serviceCode": "Uploader",
       "code": "null",
-      "path": "",
+      "path": "null",
       "navigationURL": ""
     },
     {
@@ -13479,7 +13479,7 @@
       "enabled": false,
       "serviceCode": "Uploader",
       "code": "null",
-      "path": "",
+      "path": "null",
       "navigationURL": ""
     },
     {
@@ -13492,7 +13492,7 @@
       "enabled": false,
       "serviceCode": "egov-workflow-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1742,
@@ -13504,7 +13504,7 @@
       "enabled": false,
       "serviceCode": "egov-workflow-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1743,
@@ -13516,7 +13516,7 @@
       "enabled": false,
       "serviceCode": "egov-workflow-v2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1744,
@@ -13556,7 +13556,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1747,
@@ -13612,7 +13612,7 @@
       "enabled": false,
       "serviceCode": "egov-hrms",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1751,
@@ -13624,7 +13624,7 @@
       "enabled": false,
       "serviceCode": "egov-hrms",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1752,
@@ -13636,7 +13636,7 @@
       "enabled": false,
       "serviceCode": "egov-hrms",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1753,
@@ -13830,7 +13830,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "",
       "leftIcon": "",
       "rightIcon": "",
@@ -13916,7 +13916,7 @@
       "enabled": false,
       "serviceCode": "egov-apportion-service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1773,
@@ -13942,7 +13942,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "all-complaints",
       "leftIcon": "action:announcement",
       "rightIcon": "",
@@ -13958,7 +13958,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "property-tax",
       "leftIcon": "action:store",
       "rightIcon": "",
@@ -13974,7 +13974,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "services/EGF/inbox",
       "leftIcon": "editor:insert-chart",
       "rightIcon": "",
@@ -13990,7 +13990,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "tradelicence/search",
       "leftIcon": "places:business-center",
       "rightIcon": "",
@@ -14006,7 +14006,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "hrms/search",
       "leftIcon": "social:people",
       "rightIcon": "",
@@ -14019,7 +14019,7 @@
       "displayName": "Search Demand",
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1781,
@@ -14028,7 +14028,7 @@
       "displayName": "Create Demand",
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1782,
@@ -14037,7 +14037,7 @@
       "displayName": "Update Demand",
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1783,
@@ -14046,7 +14046,7 @@
       "displayName": "Generate Bill",
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1784,
@@ -14055,7 +14055,7 @@
       "displayName": "Fetch Bill",
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1785,
@@ -14064,7 +14064,7 @@
       "displayName": "Taxhead Search",
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1786,
@@ -14073,7 +14073,7 @@
       "displayName": "Taxperiods Search",
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1787,
@@ -14082,7 +14082,7 @@
       "displayName": "businessservices Search",
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1788,
@@ -14091,7 +14091,7 @@
       "displayName": "Create Receipt",
       "serviceCode": "COLLECTION_SERVICE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1789,
@@ -14100,7 +14100,7 @@
       "displayName": "Update Receipt",
       "serviceCode": "COLLECTION_SERVICE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1790,
@@ -14109,7 +14109,7 @@
       "displayName": "Receipt Search",
       "serviceCode": "COLLECTION_SERVICE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1791,
@@ -14118,7 +14118,7 @@
       "displayName": "Fetch Bill",
       "serviceCode": "BILLING_SERVICE",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1792,
@@ -14200,7 +14200,7 @@
       "enabled": false,
       "serviceCode": "firenoc-service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1798,
@@ -14212,7 +14212,7 @@
       "enabled": false,
       "serviceCode": "firenoc-service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1799,
@@ -14224,7 +14224,7 @@
       "enabled": false,
       "serviceCode": "firenoc-service",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1800,
@@ -14250,7 +14250,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "fire-noc/search",
       "leftIcon": "social:people",
       "rightIcon": "",
@@ -14294,7 +14294,7 @@
       "enabled": false,
       "serviceCode": "Searcher",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1805,
@@ -14431,7 +14431,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "pgr-home",
       "leftIcon": "custom:account-alert",
       "rightIcon": "",
@@ -14447,7 +14447,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "property-tax",
       "leftIcon": "custom:home-city-outline",
       "rightIcon": "",
@@ -14463,7 +14463,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "tradelicense-citizen/home",
       "leftIcon": "custom:trade-license",
       "rightIcon": "",
@@ -14479,7 +14479,7 @@
       "enabled": true,
       "serviceCode": "",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "fire-noc/home",
       "leftIcon": "custom:fire",
       "rightIcon": "",
@@ -14495,7 +14495,7 @@
       "enabled": false,
       "serviceCode": "firenoc-calculator",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1819,
@@ -14507,7 +14507,7 @@
       "enabled": false,
       "serviceCode": "firenoc-calculator",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1820,
@@ -14519,7 +14519,7 @@
       "enabled": false,
       "serviceCode": "firenoc-calculator",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1821,
@@ -14531,7 +14531,7 @@
       "enabled": false,
       "serviceCode": "firenoc-calculator",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1822,
@@ -14543,7 +14543,7 @@
       "enabled": false,
       "serviceCode": "firenoc-calculator",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1823,
@@ -14555,7 +14555,7 @@
       "enabled": false,
       "serviceCode": "egov-indexer",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1824,
@@ -14588,7 +14588,7 @@
       "enabled": false,
       "serviceCode": "PT-SERVICES-V2",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1827,
@@ -14613,7 +14613,7 @@
       "enabled": false,
       "serviceCode": "msea-event-notification",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1829,
@@ -14624,7 +14624,7 @@
       "enabled": false,
       "serviceCode": "msea-event-notification",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1830,
@@ -14635,7 +14635,7 @@
       "enabled": false,
       "serviceCode": "msea-event-notification",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1831,
@@ -14646,7 +14646,7 @@
       "enabled": false,
       "serviceCode": "msea-event-notification",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1832,
@@ -14657,7 +14657,7 @@
       "enabled": false,
       "serviceCode": "msea-event-notification",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1833,
@@ -14683,7 +14683,7 @@
       "enabled": false,
       "serviceCode": "pdf-generator-create",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1835,
@@ -14694,7 +14694,7 @@
       "enabled": false,
       "serviceCode": "pdf-generator-search",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1836,
@@ -15029,7 +15029,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1864,
@@ -15040,7 +15040,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1865,
@@ -15051,7 +15051,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1866,
@@ -15062,7 +15062,7 @@
       "enabled": false,
       "serviceCode": "COLLECTION",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1867,
@@ -15102,7 +15102,7 @@
       "enabled": false,
       "serviceCode": "egov-indexer",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1870,
@@ -15114,7 +15114,7 @@
       "enabled": false,
       "serviceCode": "egov-indexer",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1871,
@@ -15139,7 +15139,7 @@
       "enabled": false,
       "serviceCode": "pdf-generator-createnosave",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1873,
@@ -15177,7 +15177,7 @@
       "enabled": false,
       "serviceCode": "tl-services",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1876,
@@ -15189,7 +15189,7 @@
       "enabled": false,
       "serviceCode": "tl-services",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1877,
@@ -15201,7 +15201,7 @@
       "enabled": false,
       "serviceCode": "tl-services",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1878,
@@ -15213,7 +15213,7 @@
       "enabled": false,
       "serviceCode": "tl-calculator",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1879,
@@ -15270,7 +15270,7 @@
       "enabled": false,
       "serviceCode": "wns",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "wns/search",
       "leftIcon": "",
       "rightIcon": "",
@@ -15286,7 +15286,7 @@
       "enabled": false,
       "serviceCode": "wns",
       "code": "",
-      "path": "",
+      "path": "null",
       "navigationURL": "wns-citizen/home",
       "leftIcon": "",
       "rightIcon": "",
@@ -15377,7 +15377,7 @@
       "enabled": false,
       "serviceCode": "DSS",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1890,
@@ -15389,7 +15389,7 @@
       "enabled": false,
       "serviceCode": "DSS",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1891,
@@ -15415,7 +15415,7 @@
       "enabled": false,
       "serviceCode": "DSS",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1893,
@@ -15427,7 +15427,7 @@
       "enabled": false,
       "serviceCode": "DSS",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1894,
@@ -15439,7 +15439,7 @@
       "enabled": false,
       "serviceCode": "DSS",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1902,
@@ -15451,7 +15451,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1903,
@@ -15463,7 +15463,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1904,
@@ -15475,7 +15475,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1905,
@@ -15499,7 +15499,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1907,
@@ -15511,7 +15511,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1908,
@@ -15523,7 +15523,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1909,
@@ -15547,7 +15547,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1911,
@@ -15559,7 +15559,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1912,
@@ -15571,7 +15571,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1913,
@@ -15583,7 +15583,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1914,
@@ -15595,7 +15595,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1915,
@@ -15619,7 +15619,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1917,
@@ -15631,7 +15631,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1918,
@@ -15643,7 +15643,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1919,
@@ -15667,7 +15667,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1921,
@@ -15679,7 +15679,7 @@
       "enabled": true,
       "serviceCode": "report",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1895,
@@ -15690,7 +15690,7 @@
       "enabled": false,
       "serviceCode": "property-services",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1896,
@@ -15701,7 +15701,7 @@
       "enabled": false,
       "serviceCode": "property-services",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1897,
@@ -15712,7 +15712,7 @@
       "enabled": false,
       "serviceCode": "property-services",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1898,
@@ -15723,7 +15723,7 @@
       "enabled": false,
       "serviceCode": "property-services",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1924,
@@ -15734,7 +15734,7 @@
       "enabled": false,
       "serviceCode": "BPA",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1930,
@@ -15745,7 +15745,7 @@
       "enabled": false,
       "serviceCode": "BPA",
       "code": "null",
-      "path": ""
+      "path": "null"
     },
     {
       "id": 1931,
@@ -15756,7 +15756,7 @@
       "enabled": false,
       "serviceCode": "BPA",
       "code": "null",
-      "path": ""
+      "path": "null"
     }
   ]
 }
