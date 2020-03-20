@@ -118,24 +118,33 @@
     {
       "businessService": "BPA.NEWCONSTRUCTION_APP_FEE",
       "code": "BPA.NC_APP_FEE",
-      "collectionModesNotAllowed": [
-        "DD"
+      "collectionModesNotAllowed": [        
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
+      "isVoucherCreationEnabled": false,
       "isActive": true
     },
     {
       "businessService": "BPA.NEWCONSTRUCTION_SANC_FEE",
       "code": "BPA.NC_SAN_FEE",
       "collectionModesNotAllowed": [
-        "DD"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
-      "isVoucherCreationEnabled": true,
+      "isVoucherCreationEnabled": false,
+      "isActive": true
+    },
+    {
+      "businessService": "BPARegistration",
+      "code": "BPAREG",
+      "collectionModesNotAllowed": [        
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": false,
       "isActive": true
     }
+
   ]
 }
