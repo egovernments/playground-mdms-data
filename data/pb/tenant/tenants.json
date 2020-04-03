@@ -158,6 +158,36 @@
       "address": "City E Municipal Corporation Address",
       "contactNumber": "0978-7645345",
       "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "pb.state",
+      "name": "Demo State",
+      "description": "State",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.citya/logo.png",
+      "imageId": null,
+      "domainUrl": null,
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": null,
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "State",
+        "localName": "Demo State",
+        "districtCode": "0",
+        "districtName": "State",
+        "regionName": "State",
+        "ulbGrade": "ST",
+        "longitude": 75.3412,
+        "latitude": 31.1471,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "0"
+      },
+      "address": "Demo State",
+      "contactNumber": null
     }
   ]
 }
