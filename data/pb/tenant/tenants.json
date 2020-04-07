@@ -1,8 +1,8 @@
 {
-  "tenantId": "pb",
+  "tenantId": "pg",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "pb.citya",
+      "code": "pg.citya",
       "name": "City A",
       "description": "City A",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.citya/logo.png",
@@ -32,7 +32,7 @@
       "contactNumber": "001-2345876"
     },
     {
-      "code": "pb.cityb",
+      "code": "pg.cityb",
       "name": "City B",
       "description": null,
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.cityb/logo.png",
@@ -64,7 +64,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pb.cityc",
+      "code": "pg.cityc",
       "name": "City C",
       "description": null,
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.cityc/logo.png",
@@ -96,7 +96,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pb.cityd",
+      "code": "pg.cityd",
       "name": "City D",
       "description": null,
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.cityd/logo.png",
@@ -128,7 +128,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pb.citye",
+      "code": "pg.citye",
       "name": "City E",
       "description": null,
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.citye/logo.png",
@@ -160,7 +160,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pb.state",
+      "code": "pg.state",
       "name": "Demo State",
       "description": "State",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pb-egov-assets/pb.citya/logo.png",
