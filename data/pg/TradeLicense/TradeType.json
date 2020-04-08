@@ -1,0 +1,189 @@
+{
+  "tenantId": "pg",
+  "moduleName": "TradeLicense",
+  "TradeType": [
+    {
+      "code": "GOODS.RETAIL.TR1",
+      "uom": null,
+      "applicationDocument":["OWNERIDPROOF", "OWNERSHIPPROOF"],
+      "verificationDocument":[],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "GOODS.RETAIL.TR2",
+      "uom": null,
+      "applicationDocument":["OWNERIDPROOF", "OWNERSHIPPROOF"],
+      "verificationDocument":[],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "GOODS.RETAIL.TR3",
+      "uom": null,
+      "applicationDocument":["OWNERIDPROOF", "OWNERSHIPPROOF"],
+      "verificationDocument":[],
+      "active": true,
+      "type": "TL",
+      "validityPeriod": null
+    },
+    {
+      "code": "ARCHITECT.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "ARCHITECT.CLASSB",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "ARCHITECT.CLASSC",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "BUILDER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "BUILDER.CLASSB",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "BUILDER.CLASSC",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "ENGINEER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "ENGINEER.CLASSB",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "ENGINEER.CLASSC",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "STRUCTURALENGINEER.CLASSA",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "STRUCTURALENGINEER.CLASSB",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    },
+    {
+      "code": "STRUCTURALENGINEER.CLASSC",
+      "uom": null,
+      "applicationDocument": [
+        "OWNERIDPROOF",
+        "OWNERSHIPPROOF",
+        "EXPERIENCEPROOF"
+      ],
+      "verificationDocument": [],
+      "active": true,
+      "type": "BPA",
+      "validityPeriod": 5
+    }
+  ]
+}

@@ -1,0 +1,328 @@
+{
+  "tenantId": "pg",
+  "moduleName": "BillingService",
+  "TaxHeadMaster": [
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt adhoc rebate",
+      "code": "PT_ADHOC_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "ADVANCE_COLLECTION",
+      "service": "PT",
+      "name": "Pt advance carry forward",
+      "code": "PT_ADVANCE_CARRYFORWARD",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt owner exemption",
+      "code": "PT_OWNER_EXEMPTION",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt time rebate",
+      "code": "PT_TIME_REBATE",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt unit usage excemption",
+      "code": "PT_UNIT_USAGE_EXEMPTION",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt adhoc penalty",
+      "code": "PT_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": 1
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "propertytax",
+      "code": "PT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 3
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt fire cess",
+      "code": "PT_FIRE_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt cancer cess",
+      "code": "PT_CANCER_CESS",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt time penalty",
+      "code": "PT_TIME_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "Pt time interest",
+      "code": "PT_TIME_INTEREST",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 1
+    },
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "tl tax",
+      "code": "TL_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 2
+    },
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "tl roundoff",
+      "code": "TL_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "tl adhoc rebate",
+      "code": "TL_ADHOC_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "TL",
+      "name": "tl adhoc penalty",
+      "code": "TL_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 1
+    },
+    {
+      "category": "REBATE",
+      "service": "PT",
+      "name": "pt debit decimal",
+      "code": "PT_DECIMAL_CEILING_DEBIT",
+      "isDebit": true,
+      "isActualDemand": true,
+      "order": 0
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "pt credit decimal",
+      "code": "PT_DECIMAL_CEILING_CREDIT",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 1
+    },
+    {
+      "category": "TAX",
+      "service": "PT",
+      "name": "pt decimal roundOff",
+      "code": "PT_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": 0
+    },
+    {
+      "category": "REBATE",
+      "service": "FIRENOC",
+      "name": "firenoc adhoc rebate",
+      "code": "FIRENOC_ADHOC_REBATE",
+      "isDebit": true,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "PENALTY",
+      "service": "FIRENOC",
+      "name": "firenoc adhoc penalty",
+      "code": "FIRENOC_ADHOC_PENALTY",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "2",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "FIRENOC",
+      "name": "firenoc fees",
+      "code": "FIRENOC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "3",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "FIRENOC",
+      "name": "firenoc taxes",
+      "code": "FIRENOC_TAXES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "4",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "FIRENOC",
+      "name": "firenoc roundoff",
+      "code": "FIRENOC_ROUNDOFF",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.No_Dues_Certificate",
+      "name": "TX.NO_DUES_CERTIFICATE_TAX",
+      "code": "TX.NO_DUES_CERTIFICATE_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.No_Dues_Certificate",
+      "name": "TX.NO_DUES_CERTIFICATE_FIELD_FEE",
+      "code": "TX.NO_DUES_CERTIFICATE_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "TX.Electricity_Chungi",
+      "name": "TX.ELECTRICITY_CHUNGI_TAX",
+      "code": "TX.ELECTRICITY_CHUNGI_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "TX.Electricity_Chungi",
+      "name": "TX.ELECTRICITY_CHUNGI_FIELD_FEE",
+      "code": "TX.ELECTRICITY_CHUNGI_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RT.Municipal_Shops_Rent",
+      "name": "RT.MUNICIPAL_SHOPS_RENT_TAX",
+      "code": "RT.MUNICIPAL_SHOPS_RENT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "RT.Municipal_Shops_Rent",
+      "name": "RT.MUNICIPAL_SHOPS_RENT_FIELD_FEE",
+      "code": "RT.MUNICIPAL_SHOPS_RENT_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "TAX",
+      "service": "RT.Land_Rent",
+      "name": "RT.LAND_RENT_TAX",
+      "code": "RT.LAND_RENT_TAX",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": true
+    },
+    {
+      "category": "CHARGES",
+      "service": "RT.Land_Rent",
+      "name": "RT.LAND_RENT_FIELD_FEE",
+      "code": "RT.LAND_RENT_FIELD_FEE",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPAREG",
+      "name": "BPA Stakeholder Registraion fees",
+      "code": "BPAREG_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_APP_FEE",
+      "name": "BPA Application fees",
+      "code": "BPA_APPL_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "1",
+      "isRequired": false
+    },
+    {
+      "category": "FEE",
+      "service": "BPA.NC_SAN_FEE",
+      "name": "BPA Sanction fees",
+      "code": "BPA_SANC_FEES",
+      "isDebit": false,
+      "isActualDemand": true,
+      "order": "2",
+      "isRequired": false
+    }
+  ]
+}

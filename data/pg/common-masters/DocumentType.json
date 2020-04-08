@@ -1,0 +1,18 @@
+{
+  "tenantId": "pg",
+  "moduleName": "common-masters",
+  "DocumentType": [
+    {
+      "code": "OWNERIDPROOF",
+      "active": true
+    },
+    {
+      "code": "OWNERSHIPPROOF",
+      "active": true
+    },
+    {
+      "code": "EXPERIENCEPROOF",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "tenantId": "pg",
+  "moduleName": "BPA",
+  "ApplicationType": [
+     {
+      "code": "BUILDING_PLAN_SCRUTINY",
+      "active": true
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "tenantId": "pg",
+  "moduleName": "BillingService",
+  "BusinessService": [
+    {
+      "businessService": "PropertyTax",
+      "code":"PT",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": true,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": true
+    },
+    {
+      "businessService": "WaterCharges",
+      "code":"WC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false
+    },
+    {
+      "businessService": "TradeLicense",
+      "code":"TL",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "demandUpdateTime": 604800000,
+      "isVoucherCreationEnabled": true
+    },
+    {
+      "businessService": "WaterCharges.Metered",
+      "code":"WaterCharges.Metered",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false
+    },
+    {
+      "businessService": "WaterCharges.NonMetered",
+      "code":"WaterCharges.NonMetered",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": true,
+      "demandUpdateTime": 86400000,
+      "isVoucherCreationEnabled": false
+    },
+    {
+      "businessService": "FIRENOC",
+      "code": "FIRENOC",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true
+    },
+    {
+      "businessService": "Taxes.Electricity Chungi",
+      "code": "TX.Electricity_Chungi",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Taxes.No Dues Certificate",
+      "code": "TX.No_Dues_Certificate",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rents.Municipal Shops Rent",
+      "code": "RT.Municipal_Shops_Rent",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "Rents.Land Rent",
+      "code": "RT.Land_Rent",
+      "collectionModesNotAllowed": [
+        "DD"
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": true,
+      "isActive": true,
+      "type": "Adhoc"
+    },
+    {
+      "businessService": "BPA.NEWCONSTRUCTION_APP_FEE",
+      "code": "BPA.NC_APP_FEE",
+      "collectionModesNotAllowed": [        
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": false,
+      "isActive": true
+    },
+    {
+      "businessService": "BPA.NEWCONSTRUCTION_SANC_FEE",
+      "code": "BPA.NC_SAN_FEE",
+      "collectionModesNotAllowed": [
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": false,
+      "isActive": true
+    },
+    {
+      "businessService": "BPARegistration",
+      "code": "BPAREG",
+      "collectionModesNotAllowed": [        
+      ],
+      "partPaymentAllowed": false,
+      "isAdvanceAllowed": false,
+      "isVoucherCreationEnabled": false,
+      "isActive": true
+    }
+
+  ]
+}
