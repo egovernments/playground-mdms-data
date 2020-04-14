@@ -1,5 +1,5 @@
 {
-  "tenantId": "pb",
+  "tenantId": "pg",
   "moduleName": "tenant",
   "citymodule": [
     {
@@ -7,19 +7,19 @@
       "code": "PGR",
       "tenants": [
         {
-          "code": "pb.citya"
+          "code": "pg.citya"
         },
         {
-          "code": "pb.cityb"
+          "code": "pg.cityb"
         },
         {
-          "code": "pb.cityc"
+          "code": "pg.cityc"
         },
         {
-          "code": "pb.cityd"
+          "code": "pg.cityd"
         },
         {
-          "code": "pb.citye"
+          "code": "pg.citye"
         }
         
       ]
@@ -29,19 +29,19 @@
       "code": "PT",
       "tenants": [
         {
-          "code": "pb.citya"
+          "code": "pg.citya"
         },
         {
-          "code": "pb.cityb"
+          "code": "pg.cityb"
         },
         {
-          "code": "pb.cityc"
+          "code": "pg.cityc"
         },
         {
-          "code": "pb.cityd"
+          "code": "pg.cityd"
         },
         {
-          "code": "pb.citye"
+          "code": "pg.citye"
         }
       ]
     },
@@ -50,19 +50,19 @@
       "code": "Finance",
       "tenants": [
         {
-          "code": "pb.citya"
+          "code": "pg.citya"
         },
         {
-          "code": "pb.cityb"
+          "code": "pg.cityb"
         },
         {
-          "code": "pb.cityc"
+          "code": "pg.cityc"
         },
         {
-          "code": "pb.cityd"
+          "code": "pg.cityd"
         },
         {
-          "code": "pb.citye"
+          "code": "pg.citye"
         }
       ]
     },
@@ -71,19 +71,19 @@
       "code": "TL",
       "tenants": [
         {
-          "code": "pb.citya"
+          "code": "pg.citya"
         },
         {
-          "code": "pb.cityb"
+          "code": "pg.cityb"
         },
         {
-          "code": "pb.cityc"
+          "code": "pg.cityc"
         },
         {
-          "code": "pb.cityd"
+          "code": "pg.cityd"
         },
         {
-          "code": "pb.citye"
+          "code": "pg.citye"
         }
       ]
     },
@@ -92,19 +92,19 @@
       "code": "FIRENOC",
       "tenants": [
         {
-          "code": "pb.citya"
+          "code": "pg.citya"
         },
         {
-          "code": "pb.cityb"
+          "code": "pg.cityb"
         },
         {
-          "code": "pb.cityc"
+          "code": "pg.cityc"
         },
         {
-          "code": "pb.cityd"
+          "code": "pg.cityd"
         },
         {
-          "code": "pb.citye"
+          "code": "pg.citye"
         }
       ]
     },
@@ -113,19 +113,19 @@
       "code": "UC",
       "tenants": [
         {
-          "code": "pb.citya"
+          "code": "pg.citya"
         },
         {
-          "code": "pb.cityb"
+          "code": "pg.cityb"
         },
         {
-          "code": "pb.cityc"
+          "code": "pg.cityc"
         },
         {
-          "code": "pb.cityd"
+          "code": "pg.cityd"
         },
         {
-          "code": "pb.citye"
+          "code": "pg.citye"
         }
       ]
     },
@@ -134,19 +134,19 @@
       "code": "BPAREG",
       "tenants": [
         {
-          "code": "pb.citya"
+          "code": "pg.citya"
         },
         {
-          "code": "pb.cityb"
+          "code": "pg.cityb"
         },
         {
-          "code": "pb.cityc"
+          "code": "pg.cityc"
         },
         {
-          "code": "pb.cityd"
+          "code": "pg.cityd"
         },
         {
-          "code": "pb.citye"
+          "code": "pg.citye"
         }
       ]
     },
@@ -155,19 +155,19 @@
       "code": "BPAAPPLY",
       "tenants": [
         {
-          "code": "pb.citya"
+          "code": "pg.citya"
         },
         {
-          "code": "pb.cityb"
+          "code": "pg.cityb"
         },
         {
-          "code": "pb.cityc"
+          "code": "pg.cityc"
         },
         {
-          "code": "pb.cityd"
+          "code": "pg.cityd"
         },
         {
-          "code": "pb.citye"
+          "code": "pg.citye"
         }
       ]
     }

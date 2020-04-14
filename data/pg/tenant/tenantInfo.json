@@ -1,9 +1,9 @@
 {
-  "tenantId": "pb",
+  "tenantId": "pg",
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "pb.citya",
+      "code": "pg.citya",
       "districtCode": "CITYA",
       "population": "156716",
       "malePopulation": "82045",
@@ -13,7 +13,7 @@
       "languagesSpoken": ["PN", "HN", "EN"]
     },
     {
-      "code": "pb.cityb",
+      "code": "pg.cityb",
       "districtCode": "CITYB",
       "population": "116449",
       "malePopulation": "62554",
@@ -24,7 +24,7 @@
     },
   
     {
-      "code": "pb.cityc",
+      "code": "pg.cityc",
       "districtCode": "CITYC",
       "population": "17331",
       "malePopulation": "10521",
@@ -34,7 +34,7 @@
       "languagesSpoken": ["GR", "PN", "HN"]
     },
     {
-      "code": "pb.cityd",
+      "code": "pg.cityd",
       "districtCode": "CITYD",
       "population": "12507",
       "malePopulation": "6810",
@@ -44,7 +44,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pb.citye",
+      "code": "pg.citye",
       "districtCode": "CITYE",
       "population": "12507",
       "malePopulation": "6810",
