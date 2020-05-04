@@ -409,31 +409,6 @@
       "description": "BPA Stakeholder Employee"
     },
     {
-      "code": "BPA_ARCHITECT",
-      "name": "BPA Architect",
-      "description": "BPA Architect"
-    },
-    {
-      "code": "BPA_ENGINEER",
-      "name": "BPA Engineer",
-      "description": "BPA Engineer"
-    },
-    {
-      "code": "BPA_BUILDER",
-      "name": "BPA Builder",
-      "description": "BPA Builder"
-    },
-    {
-      "code": "BPA_STRUCTURALENGINEER",
-      "name": "BPA Structural Engineer",
-      "description": "BPA Structural Engineer"
-    },
-    {
-      "code": "BPA_TOWNPLANNER",
-      "name": "BPA Town Planner",
-      "description": "BPA Town Planner"
-    },
-    {
       "code": "BPA_APPROVER",
       "name": "BPA Services Approver",
       "description": "BPA Services workflow Approver"
@@ -447,6 +422,21 @@
       "code": "HRMS_ADMIN",
       "name": "HRMS ADMIN",
       "description": "HRMS Administrator which can create new employees"
+    },
+    {
+      "code": "BPA_SUPERVISOR",
+      "name": "BPA Supervisor",
+      "description": "BPA Supervisor"
+    },
+    {
+      "code": "BPA_FIELD_INSPECTOR",
+      "name": "BPA Field Inspector",
+      "description": "BPA Service field inspector"
+    },
+    {
+      "code": "BPA_NOC_VERIFIER",
+      "name": "BPA NOC Verifier",
+      "description": "BPA Service NOC verifier"
     }
   ]
 }
