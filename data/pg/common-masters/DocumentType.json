@@ -3,15 +3,27 @@
   "moduleName": "common-masters",
   "DocumentType": [
     {
-      "code": "OWNERIDPROOF",
+      "code" : "OWNERIDPROOF",
+      "allowedFormat" : ["image/*", ".pdf", ".png", ".jpeg"],
+      "maxFileSize": 6000,
       "active": true
     },
     {
-      "code": "OWNERSHIPPROOF",
+      "code" : "OWNERSHIPPROOF",
+      "allowedFormat" : ["image/*", ".pdf", ".png", ".jpeg"],
+      "maxFileSize": 6000,
       "active": true
     },
     {
-      "code": "EXPERIENCEPROOF",
+      "code" : "OWNERPHOTO",
+      "allowedFormat" : ["image/*", ".png", ".jpeg"],
+      "maxFileSize": 3000,
+      "active": true
+    },
+    {
+      "code" : "OLDLICENCENO",
+      "allowedFormat" : ["image/*", ".pdf", ".png", ".jpeg"],
+      "maxFileSize": 6000,
       "active": true
     }
   ]
