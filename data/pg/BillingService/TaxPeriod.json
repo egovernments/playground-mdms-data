@@ -111,6 +111,14 @@
       "toDate": 1617172199000,
       "periodCycle": "ANNUAL",
       "service": "TX.Electricity_Chungi",
+      "code": "TXELCH2020",
+      "financialYear": "2020-21"
+    },
+    {
+      "fromDate": 1585679399000,
+      "toDate": 1617172199000,
+      "periodCycle": "ANNUAL",
+      "service": "TX.No_Dues_Certificate",
       "code": "TXNDCAN2020",
       "financialYear": "2020-21"
     },
