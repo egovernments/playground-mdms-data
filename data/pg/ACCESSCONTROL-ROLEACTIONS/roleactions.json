@@ -19270,18 +19270,6 @@
     },
     {
       "rolecode": "EMPLOYEE",
-      "actionid": 1942,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "SUPERUSER",
-      "actionid": 1942,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE",
       "actionid": 1882,
       "actioncode": "",
       "tenantId": "pg"
@@ -19737,48 +19725,6 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "BPA_ARCHITECT",
-      "actionid": 1924,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "BPA_ARCHITECT",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "BPA_ARCHITECT",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "BPA_VERIFIER",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "BPA_VERIFIER",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "BPA_APPROVER",
-      "actionid": 1930,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "BPA_APPROVER",
-      "actionid": 1931,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "HRMS_ADMIN",
       "actionid": 1773,
       "actioncode": "",
@@ -20057,6 +20003,12 @@
     {
       "rolecode": "BPA_NOC_VERIFIER",
       "actionid": 1940,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "NOC_DOC_VERIFIER",
+      "actionid": 1934,
       "actioncode": "",
       "tenantId": "pg"
     }

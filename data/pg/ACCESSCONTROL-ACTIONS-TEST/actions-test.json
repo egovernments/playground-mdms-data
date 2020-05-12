@@ -28,17 +28,6 @@
       "path": "Asset Management.Asset Masters.Immovable Asset.ViewImmovableAsset"
     },
     {
-      "id": 1942,
-      "name": "Locality searcher endpoint for BPA Reg",
-      "url": "/egov-searcher/locality/BPAREG/_get",
-      "displayName": "BPA locality searcher",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "egov-searcher",
-      "code": "null",
-      "path": ""
-    },
-    {
       "id": 240,
       "name": "ModifyImmovableAsset",
       "url": "/app/asset/search-asset.html",
@@ -15219,7 +15208,7 @@
       "id": 1879,
       "name": "BPAStakeHolderSearch",
       "url": "url",
-      "displayName": "BPA Stake Holder Search",
+      "displayName": "BPA Stakeholder Search",
       "orderNumber": 1,
       "parentModule": "rainmaker-bpa",
       "enabled": true,
@@ -15726,42 +15715,9 @@
       "path": ""
     },
     {
-      "id": 1924,
-      "name": "BPA-Applyforservice",
-      "url": "/bpa-services/bpa/appl/_create",
-      "displayName": "Apply",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1930,
-      "name": "BPA-applicationsearch",
-      "url": "/bpa-services/bpa/appl/_search",
-      "displayName": "Search",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 1931,
-      "name": "BPA-updateapplicationservice",
-      "url": "/bpa-services/bpa/appl/_update",
-      "displayName": "Apply",
-      "orderNumber": 0,
-      "enabled": false,
-      "serviceCode": "BPA",
-      "code": "null",
-      "path": ""
-    },
-    {
       "id": 1932,
       "name": "BPA-PermitOrderEDCR Report",
-      "url": "/bpa-services/bpa/appl/_permitorderedcr",
+      "url": "/bpa-services/_permitorderedcr",
       "displayName": "Apply",
       "orderNumber": 0,
       "enabled": false,
