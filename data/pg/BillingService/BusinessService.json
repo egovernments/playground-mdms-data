@@ -6,7 +6,7 @@
       "businessService": "PropertyTax",
       "code":"PT",
       "collectionModesNotAllowed": [
-        "DD"
+        "DD","OFFLINE_NEFT","OFFLINE_RTGS","POSTAL_ORDER"
       ],
       "partPaymentAllowed": true,
       "isAdvanceAllowed": false,
@@ -17,7 +17,7 @@
       "businessService": "WaterCharges",
       "code":"WC",
       "collectionModesNotAllowed": [
-        "DD"
+        "DD","OFFLINE_NEFT","OFFLINE_RTGS","POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": true,
@@ -28,7 +28,7 @@
       "businessService": "TradeLicense",
       "code":"TL",
       "collectionModesNotAllowed": [
-        "DD"
+        "DD","OFFLINE_NEFT","OFFLINE_RTGS","POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
@@ -61,7 +61,7 @@
       "businessService": "FIRENOC",
       "code": "FIRENOC",
       "collectionModesNotAllowed": [
-        "DD"
+        "DD","OFFLINE_NEFT","OFFLINE_RTGS","POSTAL_ORDER"
       ],
       "partPaymentAllowed": false,
       "isAdvanceAllowed": false,
