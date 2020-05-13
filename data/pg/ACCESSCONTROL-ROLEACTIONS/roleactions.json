@@ -17031,6 +17031,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "CITIZEN",
+      "actionid": 1730,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "GRO",
       "actionid": 1730,
       "actioncode": "",
