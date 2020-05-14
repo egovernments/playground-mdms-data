@@ -461,7 +461,7 @@
         },
         {
             "format":"PB-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
-             "idname":"egov.idgen.bpa.applicationNum",
+            "idname":"egov.idgen.bpa.applicationNum"
         },
         {  
             "format": "BR/ENG/[cy:yyyy]/[SEQ_EG_PT_LN]",
