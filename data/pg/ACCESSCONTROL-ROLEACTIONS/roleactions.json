@@ -20035,6 +20035,60 @@
       "actionid": 1941,
       "actioncode": "",
       "tenantId": "pg"
-    }
+    },
+    {
+	  "rolecode": "EMPLOYEE",
+	  "actionid": 1942,
+	  "actioncode": "",
+	  "tenantId": "pg"
+	},
+	{
+	  "rolecode": "CITIZEN",
+	  "actionid": 1942,
+	  "actioncode": "",
+	  "tenantId": "pg"
+	},
+	{
+	  "rolecode": "SUPERUSER",
+	  "actionid": 1942,
+	  "actioncode": "",
+	  "tenantId": "pg"
+    },
+	{
+	  "rolecode": "EMPLOYEE",
+	  "actionid": 1943,
+	  "actioncode": "",
+	  "tenantId": "pg"
+	  },
+	{
+	   "rolecode": "CITIZEN",
+	   "actionid": 1943,
+	   "actioncode": "",
+	   "tenantId": "pg"
+    },
+	{
+	  "rolecode": "SUPERUSER",
+	  "actionid": 1943,
+	  "actioncode": "",
+	  "tenantId": "pg"
+	},
+	{
+	  "rolecode": "EMPLOYEE",
+	  "actionid": 1944,
+	  "actioncode": "",
+	  "tenantId": "pg"
+	  },
+	{
+	   "rolecode": "CITIZEN",
+	  "actionid": 1944,
+	  "actioncode": "",
+	  "tenantId": "pg"
+    },
+	{
+	  "rolecode": "SUPERUSER",
+	  "actionid": 1944,
+	  "actioncode": "",
+	  "tenantId": "pg"
+	 }
   ]
 }
