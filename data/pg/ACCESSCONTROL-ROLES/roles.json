@@ -447,6 +447,11 @@
       "code": "PT_FIELD_INSPECTOR",
       "name": "PT Field Inspector",
       "description": "Property Field Inspector"
+    },
+    {
+      "code": "PT_APPROVER",
+      "name": "PT Counter Approver",
+      "description": "PT Approver"
     }
   ]
 }
