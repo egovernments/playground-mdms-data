@@ -20017,6 +20017,24 @@
       "actionid": 1934,
       "actioncode": "",
       "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1941,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1941,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1941,
+      "actioncode": "",
+      "tenantId": "pg"
     }
   ]
 }
