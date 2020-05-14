@@ -498,7 +498,14 @@
          {
             "format": "BPA_SANC_FEE/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "bpa.nc_san_fee.receipt.id"
+         },
+         {
+            "format": "PG-MU-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ASSM]",
+            "idname": "pt.mutation.receipt.id"
+         },
+         {
+            "format": "PG-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
+            "idname": "pt.mutation.number"
          }
-
     ]
 }
