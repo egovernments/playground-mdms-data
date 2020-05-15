@@ -433,6 +433,14 @@
       "service": "SW.ONE_TIME_FEE",
       "code": "SW10YRS2019",
       "financialYear": "2019-29"
+    },
+    {
+      "fromDate": 1585785599000,
+      "toDate": 1617235199000,
+      "periodCycle": "ANNUAL",
+      "service": "PT.MUTATION",
+      "code": "PTMUTAN2020",
+      "financialYear": "2020-21"
     }
   ]
 }
