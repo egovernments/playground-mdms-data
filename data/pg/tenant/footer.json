@@ -1,9 +1,9 @@
 {
-    "tenantId": "pb",
+    "tenantId": "pg",
     "moduleName": "tenant",
     "footer":[
         {
-         "code": "pb.amritsar",
+         "code": "pg.citya",
          "service": "PT",
          "receiptFooterContent": [
             {
@@ -61,7 +61,7 @@
            
         },
         {
-          "code": "pb.amritsar",
+          "code": "pg.citya",
           "service": "PT.MUTATION",
           "receiptFooterContent": [
              {
@@ -115,7 +115,7 @@
             
          },
         {
-            "code": "pb.amritsar",
+            "code": "pg.citya",
             "service": "TL",
             "receiptFooterContent": [
                {
