@@ -160,16 +160,16 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.state",
-      "name": "Demo State",
+      "code": "pg",
+      "name": "State",
       "description": "State",
       "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
       "imageId": null,
-      "domainUrl": null,
+      "domainUrl": "www.stae.gov.in",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": null,
+      "emailId": "pg.state@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 5.00 PM"
       },
@@ -186,8 +186,8 @@
         "captcha": null,
         "code": "0"
       },
-      "address": "Demo State",
-      "contactNumber": null
+      "address": "State Municipal Corporation",
+      "contactNumber": "0978-7645345"
     }
   ]
 }
