@@ -448,7 +448,7 @@
             "idname": "nks.rain_harvesting_charges.receipt.id"
         },
         {
-            "format": "PG-AC/[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
+            "format": "PG-AC-[cy:yyyy-MM-dd]-[SEQ_EG_PT_ACK]",
             "idname": "pt.acknowledgementnumber"
         },
         {
