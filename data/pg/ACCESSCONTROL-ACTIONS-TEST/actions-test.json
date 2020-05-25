@@ -15760,7 +15760,7 @@
       "navigationURL": "egov-bpa/search",
       "path": "BPA.Search",
       "leftIcon": "places:business-center"
-    }, 
+    },
     {
       "id": 1936,
       "name": "search BPA application",
@@ -15781,7 +15781,7 @@
       "quickAction": true,
       "leftIcon": "communication:business",
       "rightIcon": ""
-    },  
+    },
     {
       "id": 1937,
       "name": "rainmaker-citizen-bpahome",
@@ -15923,6 +15923,182 @@
       "serviceCode": "PropertytaxCalculatorV2",
       "code": "null",
       "path": "null"
+    },
+    {
+      "id": 1899,
+      "name": "Create Water Connection",
+      "url": "/ws-services/wc/_create",
+      "displayName": "Create Water COnnection",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1900,
+      "name": "Search Water Connection",
+      "url": "/ws-services/wc/_search",
+      "displayName": "Search Water COnnection",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 1901,
+      "name": "Update Water Connection",
+      "url": "/ws-services/wc/_update",
+      "displayName": "Update Water COnnection",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2000,
+      "name": "Enter Meter Reading",
+      "url": "/ws-calculator/meterConnection/_create",
+      "displayName": "Enter Meter Reading",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2001,
+      "name": "Search Meter Reading",
+      "url": "/ws-calculator/meterConnection/_search",
+      "displayName": "Search Meter Reading",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2002,
+      "name": "Calculate Water Bill",
+      "url": "/ws-calculator/waterCalculator/_calculate",
+      "displayName": "Calculate Water Bill",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2003,
+      "name": "Create Sewerage Connection",
+      "url": "/sw-services/swc/_create",
+      "displayName": "Create Sewerage Connection",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "sw-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2004,
+      "name": "Update Sewerage Connection",
+      "url": "/sw-services/swc/_update",
+      "displayName": "Update Sewerage Connection",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "sw-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2004,
+      "name": "Search Sewerage Connection",
+      "url": "/sw-services/swc/_search",
+      "displayName": "Search Sewerage Connection",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "sw-services",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2006,
+      "name": "Sewerage Calculation",
+      "url": "/sw-calculator/sewerageCalculator/_calculate",
+      "displayName": "Sewerage Calculation",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "sw-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2007,
+      "name": "Search Water Bill",
+      "url": "/egov-searcher/bill-genie/waterbills/_get",
+      "displayName": "Search Water Bill",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2008,
+      "name": "Search Sewerage Bill",
+      "url": "/egov-searcher/bill-genie/seweragebills/_get",
+      "displayName": "Search Sewerage Bill",
+      "orderNumber": 2,
+      "enabled": false,
+      "serviceCode": "Searcher",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2009,
+      "name": "Calculate Fee For Water Application",
+      "url": "/ws-calculator/waterCalculator/_estimate",
+      "displayName": "Fee Calculation For Water Application",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2010,
+      "name": "Calculate Fee For Sewerage Application",
+      "url": "/sw-calculator/sewerageCalculator/_estimate",
+      "displayName": "Fee Calculation For Sewerage Application",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "sw-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2011,
+      "name": "Add adhoc tax",
+      "url": "/ws-calculator/waterCalculator/_applyAdhocTax",
+      "displayName": "Add adhoc tax",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "ws-calculator",
+      "code": "null",
+      "path": ""
+    },
+    {
+      "id": 2012,
+      "name": "Add adhoc tax to sewerage",
+      "url": "/sw-calculator/sewerageCalculator/_applyAdhocTax",
+      "displayName": "Add adhoc tax",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "sw-calculator",
+      "code": "null",
+      "path": ""
     }
   ]
 }

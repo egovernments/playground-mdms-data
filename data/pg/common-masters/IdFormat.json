@@ -463,7 +463,7 @@
             "format":"PG-BP-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
              "idname":"egov.idgen.bpa.applicationNum"
         },
-        {  
+        {
             "format": "BR/ENG/[cy:yyyy]/[SEQ_EG_PT_LN]",
             "idname": "egov.idgen.bpa.englicensenumber"
         },
@@ -487,7 +487,7 @@
             "format": "BR/BLD/[cy:yyyy]/[SEQ_EG_PT_LN]",
             "idname": "egov.idgen.bpa.bdlicensenumber"
         },
-        {  
+        {
             "format": "BPAREG/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
             "idname": "bpareg.receipt.id"
         },
@@ -506,6 +506,38 @@
          {
             "format": "PG-MT-[CITY]-[SEQ_EG_PT_MUTATION]",
             "idname": "pt.mutation.number"
+         },
+         {
+            "format": "WS/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "waterservice.connection.id"
+         },
+         {
+            "format": "SW/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "sewerageservice.connection.id"
+         },
+         {
+            "format": "WS/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "ws.receipt.id"
+         },
+         {
+            "format": "SW/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "sw.receipt.id"
+         },
+         {
+            "format": "WS_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "waterservice.application.id"
+         },
+         {
+            "format": "SW_AP/[CITY.CODE]/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "sewerageservice.application.id"
+         },
+         {
+            "format": "WS.ONE_TIME_FEE/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "ws.one_time_fee.receipt.id"
+         },
+         {
+            "format": "SW.ONE_TIME_FEE/[fy:yyyy-yy]/[SEQ_EGOV_COMMON]",
+            "idname": "sw.one_time_fee.receipt.id"
          }
     ]
 }
