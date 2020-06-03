@@ -8463,6 +8463,12 @@
       "tenantId": "pg"
     },
     {
+      "rolecode": "EMPLOYEE",
+      "actionid": 716,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
+    {
       "rolecode": "CITIZEN",
       "actionid": 719,
       "actioncode": "",
@@ -19281,20 +19287,8 @@
       "tenantId": "pg"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1883,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
       "rolecode": "CITIZEN",
       "actionid": 1884,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 1885,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -20201,12 +20195,6 @@
     {
       "rolecode": "WS_CLERK",
       "actionid": 1901,
-      "actioncode": "",
-      "tenantId": "pg"
-    },
-    {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1882,
       "actioncode": "",
       "tenantId": "pg"
     },
