@@ -19730,31 +19730,31 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-   {
+    {
       "rolecode": "HRMS_ADMIN",
       "actionid": 1779,
       "actioncode": "",
       "tenantId": "pg"
     },
-   {
+    {
       "rolecode": "HRMS_ADMIN",
       "actionid": 1780,
       "actioncode": "",
       "tenantId": "pg"
     },
-   {
+    {
       "rolecode": "HRMS_ADMIN",
       "actionid": 1781,
       "actioncode": "",
       "tenantId": "pg"
     },
-   {
+    {
       "rolecode": "HRMS_ADMIN",
       "actionid": 1782,
       "actioncode": "",
       "tenantId": "pg"
     },
-   {
+    {
       "rolecode": "HRMS_ADMIN",
       "actionid": 701,
       "actioncode": "",
@@ -19886,7 +19886,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
- {
+    {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 1936,
       "actioncode": "",
@@ -19970,7 +19970,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-     {
+    {
       "rolecode": "BPA_ARCHITECT",
       "actionid": 1940,
       "actioncode": "",
@@ -19994,7 +19994,7 @@
       "actioncode": "",
       "tenantId": "pg"
     },
-   {
+    {
       "rolecode": "BPA_FIELD_INSPECTOR",
       "actionid": 1940,
       "actioncode": "",
@@ -20031,60 +20031,60 @@
       "tenantId": "pg"
     },
     {
-	  "rolecode": "EMPLOYEE",
-	  "actionid": 1942,
-	  "actioncode": "",
-	  "tenantId": "pg"
-	},
-	{
-	  "rolecode": "CITIZEN",
-	  "actionid": 1942,
-	  "actioncode": "",
-	  "tenantId": "pg"
-	},
-	{
-	  "rolecode": "SUPERUSER",
-	  "actionid": 1942,
-	  "actioncode": "",
-	  "tenantId": "pg"
+      "rolecode": "EMPLOYEE",
+      "actionid": 1942,
+      "actioncode": "",
+      "tenantId": "pg"
     },
-	{
-	  "rolecode": "EMPLOYEE",
-	  "actionid": 1943,
-	  "actioncode": "",
-	  "tenantId": "pg"
-	  },
-	{
-	   "rolecode": "CITIZEN",
-	   "actionid": 1943,
-	   "actioncode": "",
-	   "tenantId": "pg"
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1942,
+      "actioncode": "",
+      "tenantId": "pg"
     },
-	{
-	  "rolecode": "SUPERUSER",
-	  "actionid": 1943,
-	  "actioncode": "",
-	  "tenantId": "pg"
-	},
-	{
-	  "rolecode": "EMPLOYEE",
-	  "actionid": 1944,
-	  "actioncode": "",
-	  "tenantId": "pg"
-	  },
-	{
-	   "rolecode": "CITIZEN",
-	  "actionid": 1944,
-	  "actioncode": "",
-	  "tenantId": "pg"
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1942,
+      "actioncode": "",
+      "tenantId": "pg"
     },
-	{
-	  "rolecode": "SUPERUSER",
-	  "actionid": 1944,
-	  "actioncode": "",
-	  "tenantId": "pg"
-	 },
-	  {
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1943,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1943,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1943,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1944,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1944,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1944,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
       "rolecode": "EMPLOYEE",
       "actionid": 1945,
       "actioncode": "",
@@ -20219,6 +20219,144 @@
     {
       "rolecode": "EMPLOYEE",
       "actionid": 1901,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1980,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1991,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1992,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1993,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1994,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1995,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1996,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1997,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1998,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1999,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1984,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1985,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1969,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1968,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1991,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1992,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1993,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1994,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1995,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1996,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1997,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1998,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1999,
       "actioncode": "",
       "tenantId": "pg"
     },
@@ -20445,112 +20583,112 @@
       "tenantId": "pg"
     },
     {
-	   "rolecode":"PT_DOC_VERIFIER",
-	   "actionid":2013,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"PT_FIELD_INSPECTOR",
-	   "actionid":2013,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"PT_APPROVER",
-	   "actionid":2013,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"EMPLOYEE",
-	   "actionid":2013,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"EMPLOYEE",
-	   "actionid":1934,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"SUPERUSER",
-	   "actionid":1934,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"CITIZEN",
-	   "actionid":1934,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"EMPLOYEE",
-	   "actionid":2015,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"SUPERUSER",
-	   "actionid":2015,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"EMPLOYEE",
-	   "actionid":2016,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"EMPLOYEE",
-	   "actionid":2017,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"EMPLOYEE",
-	   "actionid":2018,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"SUPERUSER",
-	   "actionid":2018,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"EMPLOYEE",
-	   "actionid":1933,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"PT_DOC_VERIFIER",
-	   "actionid":2014,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"PT_FIELD_INSPECTOR",
-	   "actionid":2014,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"PT_APPROVER",
-	   "actionid":2014,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	},
-	{
-	   "rolecode":"EMPLOYEE",
-	   "actionid":2014,
-	   "actioncode":"",
-	   "tenantId":"pg"
-	}
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2013,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 1934,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2015,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2016,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2017,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2018,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 1933,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "pg"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2014,
+      "actioncode": "",
+      "tenantId": "pg"
+    }
   ]
 }

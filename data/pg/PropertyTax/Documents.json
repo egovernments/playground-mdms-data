@@ -136,7 +136,7 @@
           }
         }
       },
-      "dropdownData":[
+      "dropdownData": [
         {
           "code": "OWNER.REGISTRATIONPROOF.SALEDEED",
           "active": true
