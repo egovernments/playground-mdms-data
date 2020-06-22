@@ -4,8 +4,14 @@
   "OccupancyType": [
     {
       "name": "Residential",
-      "code": "RESIDENTIAL",
-      "active": true
+      "code": "A",
+      "active": true,
+      "maxCoverage": 65.0,
+      "minFar": 3.0,
+      "maxFar": 4.0,
+      "orderNumber": 1,
+      "description": "Residential",
+      "colorCode": null
     }
   ]
 }
