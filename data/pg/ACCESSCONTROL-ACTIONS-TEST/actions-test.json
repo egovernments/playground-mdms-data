@@ -12700,7 +12700,7 @@
          "parentModule": "",
          "displayName": "",
          "orderNumber": 0,
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TradeLicense",
          "code": "null",
          "path": "",
